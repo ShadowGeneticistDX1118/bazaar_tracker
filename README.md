@@ -1,0 +1,1 @@
+# FFXII Bazaar Tracker
